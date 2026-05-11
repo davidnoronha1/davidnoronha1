@@ -3,6 +3,8 @@
 ## David Noronha
 Embedded Systems, Robotics Engineer
 
+[RESUME](https://nes.is-a.dev/resumev2.pdf)
+
 **⚙️ Current Work**: Perception & Controls Pipelines @ Dreadnought Robotics \
 **📖 Learning**: VLSI, SLAM, Nav2, MPC \
 **❓ Ask me about**: Anything technical ;) \
