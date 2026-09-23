@@ -8,6 +8,6 @@ Embedded Systems, Robotics Engineer
 **⚙️ Current Work**: Perception & Controls Pipelines @ Dreadnought Robotics \
 **📖 Learning**: VLSI, SLAM, Nav2, MPC \
 **❓ Ask me about**: Anything technical ;) \
-**📬 Reach me**: [https://www.linkedin.com/in/david-noronha/](LinkedIn) / davidnoronha@outlook.in
+**📬 Reach me**: [https://www.linkedin.com/in/david-noronha/](LinkedIn) / davidnoronha+gh@outlook.in
 
 **Technologies**: Linux, ROS2, Matlab, Python, C#, C/C++, Arduino, STM32, Intel Quartus, Web Development, MoveIt2, Nav2
